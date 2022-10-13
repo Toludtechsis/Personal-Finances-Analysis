@@ -1,4 +1,4 @@
-# Personal-Finances-Analysis
+# Personal-Finance-Analysis
 A simple analysis on personal finances. 
 ![pexels-pixabay-164527](https://user-images.githubusercontent.com/17475689/195569714-8b7ea8eb-4d04-4e77-93d3-32e9798a502e.jpg) Image by Pixabay
 
@@ -28,8 +28,11 @@ The objective of the project is to have a closer look into the finances of our c
 - Total balance
 
 ## Data Cleaning and Transformation
-The case study contained two dataset called Transaction and Budget. The dataset came in an xlsx file and the file was imported into Excel using the GetData tab within microsoft excel. 
+The case study contained two dataset called Transaction and Budget. The dataset came in an xlsx file and the file was imported into Excel using the GetData tab within microsoft excel.
 - After accessing the dataset and getting a quick view of the type of data I am working with, I inserted my dataset into a table.
+
+<img width="555" alt="dataset" src="https://user-images.githubusercontent.com/17475689/195661277-3f71a012-a240-4287-95e1-83647b07418e.PNG">
+
 - In order to clean the data I want to do the transformation in Power Query, so within the Data tool bar I clicked on get and transformed data to get into the Power query environment. 
 - After getting both my tables into PowerQuery, first step I take is to unpivot the date columns within the budget table. In order to have a row with a single record of information and have a corresonding structure with the rest of the dataset. 
 - Promote first rows as headers.
