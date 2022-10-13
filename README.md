@@ -34,6 +34,9 @@ The case study contained two dataset called Transaction and Budget. The dataset 
 <img width="555" alt="dataset" src="https://user-images.githubusercontent.com/17475689/195661277-3f71a012-a240-4287-95e1-83647b07418e.PNG">
 
 - In order to clean the data I want to do the transformation in Power Query, so within the Data tool bar I clicked on get and transformed data to get into the Power query environment. 
+
+<img width="834" alt="PowerQuery" src="https://user-images.githubusercontent.com/17475689/195662114-d49a82a9-04a0-43cd-8e23-25bf41a6c53b.PNG">
+
 - After getting both my tables into PowerQuery, first step I take is to unpivot the date columns within the budget table. In order to have a row with a single record of information and have a corresonding structure with the rest of the dataset. 
 - Promote first rows as headers.
 - I created a dimensions table called categories that contains insights relevant to dimensions being described in transaction and budget tables
@@ -44,6 +47,8 @@ The case study contained two dataset called Transaction and Budget. The dataset 
 
 ## Data Modeling
 When I close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
+
+
 
 
 
