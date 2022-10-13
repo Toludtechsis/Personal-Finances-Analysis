@@ -1,5 +1,5 @@
 # Personal-Finance-Analysis
-##A simple analysis on personal finances. 
+## A simple analysis on personal finances. 
 
 ![pexels-pixabay-164527](https://user-images.githubusercontent.com/17475689/195569714-8b7ea8eb-4d04-4e77-93d3-32e9798a502e.jpg) Image by Pixabay
 
@@ -51,8 +51,9 @@ When I close and load, I choose the option to create as a connection and added t
 
 <img width="438" alt="star schema" src="https://user-images.githubusercontent.com/17475689/195662457-72608adb-95eb-40b3-bc39-7e68d7391c37.PNG">
 
-Using a star model schema connecting facts tables to dimensions table using primary and secondary keys, I proceeded to creating measures that would be needed for my analysis.
+Using a star model schema I was able to connect the facts tables to dimensions table using primary and secondary keys, Then I proceeded to creating measures that would be needed for my analysis through the Power Pivot tab.
 
+<img width="166" alt="My measures" src="https://user-images.githubusercontent.com/17475689/195665406-91b4cf2b-e0aa-415e-8e71-fe9406abd504.PNG">
 
 
 
