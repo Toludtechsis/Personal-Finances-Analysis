@@ -17,7 +17,7 @@ The project features a simple case study on personal finances to derive insights
 ## Project Objective
 
 The objective of the project is to have a closer look into the finances of our case study, 
-- To identify what expense is the highest ghrough the year
+- To identify what expense is the highest through the year
 - To determine if expenses are within budget
 - To determine if income is lower than expenses
 - what expenses are the lowest
@@ -69,10 +69,15 @@ For our dimensions values such as actual, budget and balance I was able to use t
 
 I was also able to use the power pivot tab to derive the sum of expenses and budgets on a monthly basis, which shows the picture of what budget was made for the month and what month expenses exceeded the budget or remained within budgets.
 
-### Visualization
+<img width="162" alt="rowsby budget" src="https://user-images.githubusercontent.com/17475689/195712115-6dba124e-341d-480f-8657-23ba84dbc6f6.PNG">
 
-- Gender Distribution in Palmoria Group
-Palmoria Group boast of a total of 946 employees, out of which 465 are Males, 441 Females and 40 without gender specification.
+
+### Visualization
+Visualization is almost y favorite part of data analysis. Getting to add visuals and show information I have been able to get from the data is interesting and empowering.
+
+- Total Actual, Budget and Balance
+The personal finance dataset has a total of 192,478 expenses, 230,502 budget, 38,024 balance. 
+So it is evident that for the year expenses was not just within budget there was also more money left that could added to the following year.
 
 <img width="268" alt="company gender1" src="https://user-images.githubusercontent.com/17475689/194713236-0511e743-4fcb-4033-90c9-53b3408e8e59.PNG">
 
