@@ -47,21 +47,21 @@ The case study contained two dataset called Transaction and Budget. The dataset 
 
 
 ## Data Modeling
-When I close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
+When I clicked on close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
 
 <img width="438" alt="star schema" src="https://user-images.githubusercontent.com/17475689/195662457-72608adb-95eb-40b3-bc39-7e68d7391c37.PNG">
 
 Using a star model schema I was able to connect the facts tables to dimensions table using primary and secondary keys, Then I proceeded to creating measures that would be needed for my analysis through the Power Pivot tab.
 
-<img width="166" alt="My measures" src="https://user-images.githubusercontent.com/17475689/195665406-91b4cf2b-e0aa-415e-8e71-fe9406abd504.PNG">
-
+<img width="166" alt="My measures" src="https://user-images.githubusercontent.com/17475689/195665406-91b4cf2b-e0aa-415e-8e71-fe9406abd504.PNG">        <img width="311" alt="measures" src="https://user-images.githubusercontent.com/17475689/195666059-7a6c51ee-26c6-4274-802b-10b4a2816a0a.PNG">
 
 
 
 
 ## Data Analysis and Visualization
-Within the data report's fields pane, I created different measures using data analysis expressions (DAX) formulas. These measures will go on to become quite useful in my analysis. Measures allows us ask how data questions and derive answers, they are useful for the analysis of data.
-
+One of Microsoft Excel's famous tool is power pivot. 
+Power Pivot allows us to summarize our data and be able to draw meaningful insights from the aggregations.
+I used power pivot to derive insights about the objectives of the project. For our dimensions values such as actual, budget and balance I was able to use the pivot table to generate these values.
 ### Measures Created
 - Gender Classification Measures : To explore all the different gender classifications, Male , Female and Unspecified.
 
