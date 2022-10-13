@@ -1,5 +1,6 @@
 # Personal-Finance-Analysis
-A simple analysis on personal finances. 
+##A simple analysis on personal finances. 
+
 ![pexels-pixabay-164527](https://user-images.githubusercontent.com/17475689/195569714-8b7ea8eb-4d04-4e77-93d3-32e9798a502e.jpg) Image by Pixabay
 
 ## Project Background
@@ -48,11 +49,14 @@ The case study contained two dataset called Transaction and Budget. The dataset 
 ## Data Modeling
 When I close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
 
+<img width="438" alt="star schema" src="https://user-images.githubusercontent.com/17475689/195662457-72608adb-95eb-40b3-bc39-7e68d7391c37.PNG">
+
+Using a star model schema connecting facts tables to dimensions table using primary and secondary keys, I proceeded to creating measures that would be needed for my analysis.
 
 
 
 
-<img width="355" alt="oui - model" src="https://user-images.githubusercontent.com/17475689/194582867-708dc48e-943b-41c9-9ab9-bfab26cf6159.PNG"> 
+
 
 ## Data Analysis and Visualization
 Within the data report's fields pane, I created different measures using data analysis expressions (DAX) formulas. These measures will go on to become quite useful in my analysis. Measures allows us ask how data questions and derive answers, they are useful for the analysis of data.
