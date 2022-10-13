@@ -79,10 +79,9 @@ Visualization is almost y favorite part of data analysis. Getting to add visuals
 The personal finance dataset has a total of 192,478 expenses, 230,502 budget, 38,024 balance. 
 So it is evident that for the year expenses was not just within budget there was also more money left that could added to the following year.
 
-<img width="268" alt="company gender1" src="https://user-images.githubusercontent.com/17475689/194713236-0511e743-4fcb-4033-90c9-53b3408e8e59.PNG">
+<img width="300" alt="visual 1" src="https://user-images.githubusercontent.com/17475689/195715832-f8fe9ff9-c4b4-4f31-a8f0-3b2ef15c6461.PNG">
 
- 
-Gender distribution across Regions and Departments
+- Highest monthly expense. 
 
 The gender distribution across the 3 regions indicates a higher number of male employees. 
 Kaduna with the most number of employees at 361 employees having 50.42% male employees, 45.71% female employees and 3.88% unspecified gender employees.
