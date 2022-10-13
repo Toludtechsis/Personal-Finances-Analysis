@@ -61,29 +61,13 @@ Using a star model schema I was able to connect the facts tables to dimensions t
 ## Data Analysis and Visualization
 One of Microsoft Excel's famous tool is power pivot. 
 Power Pivot allows us to summarize our data and be able to draw meaningful insights from the aggregations.
-I used power pivot to derive insights about the objectives of the project. For our dimensions values such as actual, budget and balance I was able to use the pivot table to generate these values.
-### Measures Created
-- Gender Classification Measures : To explore all the different gender classifications, Male , Female and Unspecified.
+I used power pivot to derive insights on the objectives of the project. 
+For our dimensions values such as actual, budget and balance I was able to use the pivot table to generate these values.
 
-<img width="655" alt="Measure 1" src="https://user-images.githubusercontent.com/17475689/194586820-a0ae861a-edea-4c1b-862d-f81221189e14.PNG">
-
-
-<img width="657" alt="gender measure 2" src="https://user-images.githubusercontent.com/17475689/194588464-f04cb1cf-e323-45ac-bda6-1e3b32127bb9.PNG">
+<img width="368" alt="measure pivot" src="https://user-images.githubusercontent.com/17475689/195707576-1067bf83-20ee-4330-a853-6702f427694e.PNG">
 
 
-<img width="651" alt="gender measure 3" src="https://user-images.githubusercontent.com/17475689/194589038-f2af38bb-c233-4740-a879-64b1bbd727e3.PNG">
-
-- Total Aggregation Measures : These measures were used to calculate the summation of the Bonus, Salary and Take-home columns.
-
-<img width="655" alt="total bonus" src="https://user-images.githubusercontent.com/17475689/194708445-0396749e-47fa-4996-a362-19be1a0a5499.PNG">
-
-<img width="656" alt="salary" src="https://user-images.githubusercontent.com/17475689/194708528-5a629d59-66b0-4fca-95b7-69af7d79293b.PNG">
-
-<img width="657" alt="takehome" src="https://user-images.githubusercontent.com/17475689/194708625-fc2874b2-b15d-42d0-b910-ee86479c5266.PNG">
-
-- Minimum Employee Payout Requirement Measure: This measure was use to calculate the level of company compliance with the minimum pay requirement.
-
-<img width="554" alt="MEpayout" src="https://user-images.githubusercontent.com/17475689/194712421-4f877db3-6376-4cc9-966e-9d4cfec4e45f.PNG">
+I was also able to use the power pivot tab to derive the sum of expenses and budgets on a monthly basis, which shows the picture of what budget was made for the month and what month expenses exceeded the budget or remained within budgets.
 
 ### Visualization
 
