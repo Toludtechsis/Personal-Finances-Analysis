@@ -1,8 +1,9 @@
 # Personal-Finances-Analysis
-A simple analysis on personal finances.  
+A simple analysis on personal finances. 
+![pexels-pixabay-164527](https://user-images.githubusercontent.com/17475689/195569714-8b7ea8eb-4d04-4e77-93d3-32e9798a502e.jpg) Image by Pixabay
 
 ## Project Background
-The project features a simple case study on personal finances to derive insights into how money is being spent over a period a of time.
+The project features a simple case study on personal finances to derive insights into how money is being or earned spent over a period a of time.
 
 - Project Objective
 - Data Cleaning and Transformation
@@ -13,55 +14,34 @@ The project features a simple case study on personal finances to derive insights
 - Visuals
 
 ## Project Objective
-![pexels-edmond-dantès-8547344](https://user-images.githubusercontent.com/17475689/195562513-bc613733-71b4-4cc2-99dc-f4b1db79d05e.jpg)Image by  Edmond Dantes.
 
-In all three of its locations, the Nigerian manufacturing company The Palmoria Group is dealing with problems related to gender imbalance. The headline "Palmoria, the Manufacturing Patriarchy" appeared in the headlines recently, which is regrettable. Given their desire to expand their company to other countries, this doesn't bode well for the business owners. Cases like this can only worsen, exposing additional problems like the gender pay gap among other potential problems. In other to get ahead of any suprises the HR Analyst was charged with identifying potential issues in the gender distribution across the company that can lead to damaging consequences.
-### Objectives
--  What is the gender distribution in the organization? Distil to 
-  regions and departments
-- Show insights on ratings based on gender
-  Analyse the company’s salary structure. 
-  - Identify if there is a gender pay gap. If there is, identify the 
-  department and regions that should be the focus of management
-- A recent regulation was adopted which requires 
-manufacturing companies to pay employees a minimum of 
-$90,000
-  - Does Palmoria meet this requirement?
-- Show pay distribution of employees grouped by a band of 
-   $10,000. For example: How many employees fall into a band of 
-   $10,000 – $20,000, $20,000 – $30,000 etc. Also visualize this 
-   by regions
-- Calculate the amount to be paid as bonus to individual 
-   employees
-- Calculate the total amount to be paid to individual employees 
-  (salary inclusive of bonus)
-- Total amount to be paid out per region and company-wide
+The objective of the project is to have a closer look into the finances of our case study, 
+- To identify what expense is the highest ghrough the year
+- To determine if expenses are within budget
+- To determine if income is lower than expenses
+- what expenses are the lowest
+- What takes away the most money towards the end of the year
+- What month has the most expense
+- What month was budget exceeded
+- Total expenses
+- Total budget
+- Total balance
 
 ## Data Cleaning and Transformation
-First step was to acquire the dataset from the HR team then to begin the data cleaning process I imported the dataset into PowerBI which is the choiced tool for this analysis. The process of importing the dataset is called GetData to get on with data cleaning I used PowerQuery as a transformation tool to clean the data. When I brought in the dataset, I had two tables to work with.
-### In PowerQuery I took the following steps
-- First step in power query was to rename the tables to reflect the information I was working with.
-- I made sure each column has the right data type and changed the data types where data types didn't match for eachh column
-- Promoted first rows as headers
-- Filtered for blanks and removed null values 
-- I checked for the validity of my data using the column distribution, quality, and profiling from the view tab. 
-- Removed leading spaces to ensure there were no uneccessary white spaces
-- Removed duplicate values
--  I added an index column to the tables where needed. To give the table a unique identifier column also a called primary key
-- Replaced values where genders were not stated with a generic name "Unspecified"
-- Removed values not useful for analysis based on an insider hint this include, employees without salary because they are no longer staff, 
-  and department that indicated null.
-- Created new Columns
-- Executed unpivot to restructure a table within the dataset
-- Renamed certain columns so that naming conventions are uniform across board.
-- Due to the nature of the dataset provided in order to be able to perform some analysis we need our different tables to be able to communicate so, I merged     queries. The merge allows for communication between both tables.
-- Created a new table called myMeasure to house measures to be created in my data model
-
-<img width="922" alt="Oui capstonePBQ" src="https://user-images.githubusercontent.com/17475689/194579460-07e5c78d-83a3-459d-bbe8-821898b5d92b.PNG">
+The case study contained two dataset called Transaction and Budget. The dataset came in an xlsx file and the file was imported into Excel using the GetData tab within microsoft excel. 
+- After accessing the dataset and getting a quick view of the type of data I am working with, I inserted my dataset into a table.
+- In order to clean the data I want to do the transformation in Power Query, so within the Data tool bar I clicked on get and transformed data to get into the Power query environment. 
+- After getting both my tables into PowerQuery, first step I take is to unpivot the date columns within the budget table. In order to have a row with a single record of information and have a corresonding structure with the rest of the dataset. 
+- Promote first rows as headers.
+- I created a dimensions table called categories that contains insights relevant to dimensions being described in transaction and budget tables
+- I created another dimension table called Calender and purpose of this table having a uniform table take contains all the dates froom the earlies  date in the dataset to the latest date. I accomplished this writing Mcode using a blank query. 
+- I confirmed that each cell has a single value, each column has the right data type.
+- I also made sure each row represents a single record of information, then I closed and Loaded.
 
 
 ## Data Modeling
-For the data model, there wasn't a lot of tables to work with because I had merge both tables reflecting only the needed columns within the first table which I called Employee table. Due to that fact loading the second table called the bonus table into the data model will cause redundancy which was why it was excluded from the data model.
+When I close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
+
 
 
 <img width="355" alt="oui - model" src="https://user-images.githubusercontent.com/17475689/194582867-708dc48e-943b-41c9-9ab9-bfab26cf6159.PNG"> 
