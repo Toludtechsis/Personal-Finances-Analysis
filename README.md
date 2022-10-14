@@ -70,7 +70,7 @@ I was also able to use the power pivot tab to derive the sum of expenses and bud
 
 
 ### Visualization
-Visualization is almost y favorite part of data analysis. Getting to add visuals and show information I have been able to get from the data is interesting and empowering.
+Visualization is almost my favorite part of data analysis. Getting to add visuals and show information I have been able to get from the data is interesting and empowering.
 
 - Total Actual, Budget and Balance
 The personal finance dataset has a total of 192,478 expenses, 230,502 budget, 38,024 balance. 
@@ -84,6 +84,10 @@ So it is evident that for the year expenses was not just within budget there was
  - Determine if income is lower than expenses.
  Income appears to be generally higher than expenses, eventhough not by a significant margin. 
  There is the need for our case study to increase channels of income to ensure sustainability all year round.
+ 
+ <img width="504" alt="Income" src="https://user-images.githubusercontent.com/17475689/195737263-d0e3651d-61e3-41c5-a246-849033f958aa.PNG">
+ 
+ 
  
  - Determine if expenses are within budget.
  Expenses generally falls within budget except in months January and August.  
