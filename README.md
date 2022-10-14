@@ -93,6 +93,8 @@ So it is evident that for the year expenses was not just within budget there was
  - Determine if expenses are within budget.
  Expenses generally falls within budget except in months January and August.  
  
+ <img width="341" alt="January" src="https://user-images.githubusercontent.com/17475689/195738048-2bcf7c83-eef1-47ba-b499-3b72601ca4f6.PNG">
+ 
  - What month has the most expenses.
  Janauary appears to be the month with the most expenses.
  
