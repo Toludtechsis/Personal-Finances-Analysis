@@ -106,6 +106,10 @@ So it is evident that for the year expenses was not just within budget there was
  Slicers are often used as filters to give more precise insights into our data while sparklines describe the frequency of the degree of changes.
  I combined both sparklines and slicers in this analysis.
  
+ <img width="140" alt="sparkline" src="https://user-images.githubusercontent.com/17475689/195739174-ee7ea279-7607-457d-b58e-7260e9c58b50.PNG">
+
+
+
  
 ## Insights
 
