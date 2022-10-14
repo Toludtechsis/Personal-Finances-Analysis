@@ -44,7 +44,7 @@ The case study contained two dataset called Transaction and Budget. The dataset 
 
 
 ## Data Modeling
-When I clicked on close and load, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
+Loading into the data model, I choose the option to create as a connection and added to the data model. This loads all the 4 queries created into the data model.
 
 <img width="438" alt="star schema" src="https://user-images.githubusercontent.com/17475689/195662457-72608adb-95eb-40b3-bc39-7e68d7391c37.PNG">
 
@@ -87,6 +87,7 @@ So it is evident that for the year expenses was not just within budget there was
  
  <img width="504" alt="Income" src="https://user-images.githubusercontent.com/17475689/195737263-d0e3651d-61e3-41c5-a246-849033f958aa.PNG">
  
+ <img width="505" alt="expenses" src="https://user-images.githubusercontent.com/17475689/195737527-8ab26530-6cfd-44d6-ba8f-d6b5e1e8a3ae.PNG">
  
  
  - Determine if expenses are within budget.
