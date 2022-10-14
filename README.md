@@ -81,6 +81,8 @@ So it is evident that for the year expenses was not just within budget there was
 - Highest monthly expense. 
  The top 5 monthly expense include  social, medicals,charity, clothing, travel. The highest expense varies per month with each month telling a different story.
  
+ <img width="281" alt="top 5 expenses" src="https://user-images.githubusercontent.com/17475689/195738244-75235a57-8f1f-422c-92de-ae6d772df9bd.PNG">
+ 
  - Determine if income is lower than expenses.
  Income appears to be generally higher than expenses, eventhough not by a significant margin. 
  There is the need for our case study to increase channels of income to ensure sustainability all year round.
