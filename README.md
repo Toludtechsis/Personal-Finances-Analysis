@@ -100,6 +100,12 @@ So it is evident that for the year expenses was not just within budget there was
  - What month has the most expenses.
  Janauary appears to be the month with the most expenses.
  
+ <img width="667" alt="monthy actuals" src="https://user-images.githubusercontent.com/17475689/195738602-86b0402e-dcb5-47da-aa89-e835352a3f90.PNG">
+ 
+ ### Sparklines and Slicers.
+ Slicers are often used as filters to give more precise insights into our data while sparklines describe the frequency of the degree of changes.
+ I combined both sparklines and slicers in this analysis.
+ 
  
 ## Insights
 
