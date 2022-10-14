@@ -131,4 +131,4 @@ I combined both sparklines and slicers in this analysis.
 
 
 ## Visuals
-[Dashboard](https://github.com/Toludtechsis/OUI---Capstone---Project---Tolu/blob/5b1e3c04e533974c7d43d9fa8f64c193fb37e93f/Dashboard.PNG)
+[Dashboard](https://github.com/Toludtechsis/Personal-Finances-Analysis/blob/6e0a5166b5a618a2df253cfb3d0f193a96b7bcec/Dashboard.PNG)
