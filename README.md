@@ -18,11 +18,8 @@ The project features a simple case study on personal finances to derive insights
 
 The objective of the project is to have a closer look into the finances of our case study, 
 - To identify what expense is the highest through the year
-- To determine if expenses are within budget
 - To determine if income is lower than expenses
-- what expenses are the lowest
-- What takes away the most money towards the end of the year
-- What month has the most expense
+- What month has the most expenses
 - What month was budget exceeded
 - Total expenses
 - Total budget
@@ -82,36 +79,19 @@ So it is evident that for the year expenses was not just within budget there was
 <img width="300" alt="visual 1" src="https://user-images.githubusercontent.com/17475689/195715832-f8fe9ff9-c4b4-4f31-a8f0-3b2ef15c6461.PNG">
 
 - Highest monthly expense. 
-
-The gender distribution across the 3 regions indicates a higher number of male employees. 
-Kaduna with the most number of employees at 361 employees having 50.42% male employees, 45.71% female employees and 3.88% unspecified gender employees.
-Abuja has 335 employees having 47.46% male employees, 47.16% female employees and 5.37% unspecified gender employees.
-Lagos has 250 employees having 49.6% male employees, 47.2% female employees and 3.2% unspecified gender employees.
-
-<img width="146" alt="regons gender" src="https://user-images.githubusercontent.com/17475689/194713327-0dd47031-b718-4e00-bd96-6fddad6981cb.PNG">  
-
-Palmoria Group has 12 departments in operation and within the  departments, 7 departments have a high number of male employees and 5 deparments have more Female employees.
-
-
-<img width="178" alt="gnde department1" src="https://user-images.githubusercontent.com/17475689/194713429-8dac4a4b-0079-4919-8a53-e46b8d769421.PNG">
-
-- Gender distribution by employee ratings
-In comparison to the other gender, there were more Females in the highest rated categories. The analysis revealed that more employees fall into the average group, which is dominated by men, as well as the two lowest rated categorie and 46% of the total 39 employees who are not classified by gender are rated average.
-
-<img width="246" alt="emp rating" src="https://user-images.githubusercontent.com/17475689/194717495-00643ddb-a34a-4972-b230-5ca91f9578b5.PNG">
-
-
-- Minimum Employee Payout Requirement
-The analysis reveals that only 35% of the company's employees is paid the required minimum amount, which is $90000 for all manufacturing enterprises.
-
-<img width="340" alt="min Pay" src="https://user-images.githubusercontent.com/17475689/194717759-138d34bf-e6f9-4a3e-8722-3907deb26175.PNG">
-
-
-- Salary Pay Structure in Departments
-Accounting, Human Resources, and marketing all showed glaring gender pay disparities, with Unspecified getting more money, while the Business Administration and Product Management departments were more evenly split between the genders across the board.
-
-<img width="189" alt="gendar salary dep" src="https://user-images.githubusercontent.com/17475689/194717615-7b90f136-a42c-48b3-b0ac-93e33acb9bc9.PNG">
-
+ The top 5 monthly expense include  social, medicals,charity, clothing, travel. The highest expense varies per month with each month telling a different story.
+ 
+ - Determine if income is lower than expenses.
+ Income appears to be generally higher than expenses, eventhough not by a significant margin. 
+ There is the need for our case study to increase channels of income to ensure sustainability all year round.
+ 
+ - Determine if expenses are within budget.
+ Expenses generally falls within budget except in months January and August.  
+ 
+ - What month has the most expenses.
+ Janauary appears to be the month with the most expenses.
+ 
+ 
 ## Insights
 
 -	Gender distribution gap across the organization has a relatively close, with Male employees only 3% more than the Females employees and 4% of the work force either gender neutral or unspecified.
