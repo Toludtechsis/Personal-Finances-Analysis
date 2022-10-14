@@ -103,12 +103,12 @@ So it is evident that for the year expenses was not just within budget there was
  <img width="667" alt="monthy actuals" src="https://user-images.githubusercontent.com/17475689/195738602-86b0402e-dcb5-47da-aa89-e835352a3f90.PNG">
  
  ### Sparklines and Slicers.
- Slicers are often used as filters to give more precise insights into our data while sparklines describe the frequency of the degree of changes.
- I combined both sparklines and slicers in this analysis.
+Slicers are often used as filters to give more precise insights into our data while sparklines describe the frequency of the degree of changes within a feature or metric.
+I combined both sparklines and slicers in this analysis.
  
- <img width="140" alt="sparkline" src="https://user-images.githubusercontent.com/17475689/195739174-ee7ea279-7607-457d-b58e-7260e9c58b50.PNG">
+<img width="140" alt="sparkline" src="https://user-images.githubusercontent.com/17475689/195739174-ee7ea279-7607-457d-b58e-7260e9c58b50.PNG">
 
-
+<img width="152" alt="slicers" src="https://user-images.githubusercontent.com/17475689/195739269-e32d3c9b-9118-49ce-8ac3-a0f90a45d6e5.PNG">
 
  
 ## Insights
