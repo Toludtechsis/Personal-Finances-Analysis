@@ -115,16 +115,16 @@ I combined both sparklines and slicers in this analysis.
 
 -	It was deduced from the analysis that the case study is relatively a prudent spender who mostly stays within budget
 
--	Eventhough the case study tried not to exceed budget the margin between income and expense is too close which will not allow anyform of buffer if expenses should occur beyond budget. The case study could easily run into debt if unforseen expenditures prsent itself.
+-	Eventhough the case study tried not to exceed budget the margin between income and expense is too close which will not allow any form of buffer if expenses should go beyond budget. The case study could easily run into debt if unforseen expenditures present itself.
 
 -	Anaysis showed that social activity is the number one expense incurred bythe case study, This might not be financially responsible way of life. 
 
--	Expenses are generally within budget but not exctly the case for January and August.  This could be due to January being the start of a new year and holiday cheer prompting decisions to spend more while the August spike could be due to summer time expenses. whatever the case maybe these months needs to be further investigated.
+-	Expenses are generally within budget but not exactly the case for January and August.  This could be due to January being the start of a new year and holiday cheer prompting decisions to spend more while the August spike could be due to summer time expenses. whatever the case maybe these months needs to be further investigated.
 
 
 ## Recommendations and Conclusions
 
--	The case study should identify more sustainable sources of income so as to increase income generated. 
+-	The case study should identify more sustainable sources of income so as to increase the gap between expenses and income generated. 
 
 - Months with beyond budget expenses should be investigated so as to determine the causesof the increased expense and better control incurring more expense.
 
