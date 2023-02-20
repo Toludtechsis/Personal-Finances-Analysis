@@ -4,7 +4,7 @@
 ![pexels-pixabay-164527](https://user-images.githubusercontent.com/17475689/195569714-8b7ea8eb-4d04-4e77-93d3-32e9798a502e.jpg) Image by Pixabay
 
 ## Project Background
-The project features a simple case study on personal finances to derive insights into how money is being spent or earned over a period a of time.
+The project features a simple case study on personal finances to derive insights into what an individual's finances looks like with emphasis on how money is being spent, what makes up the individual's expenses, how much income is being generated and through what channels over a period a of time.
 
 - Project Objective
 - Data Cleaning and Transformation
